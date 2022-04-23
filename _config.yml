@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
+name: Joshua Gause (he/him)
 title: Your job title
-email: Your email (optional)
+email: joshua@gause.me
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://joshua.gause.me
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
